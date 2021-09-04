@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"trinhdm",
+        "tel":"0909090",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"van anh",
+        "tel":"54744778",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"thuy quynh",
+        "tel":"484848",
+        "permission":1
+    },
+    {
+        "id":4,
+        "name":"mai lan",
+        "tel":"059559",
+        "permission":2
+    },
+    {
+        "id":5,
+        "name":"hong ha",
+        "tel":"0839899",
+        "permission":1
+    }
+]
